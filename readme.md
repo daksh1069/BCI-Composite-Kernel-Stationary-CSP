@@ -1,6 +1,6 @@
 This is an attempt to reproduce the Following Paper - https://www.sciencedirect.com/science/article/abs/pii/S1746809416301409 in Python language
 
-Some Features are not working properly  like the Ranking System of Regions etc. Please contribute, if you feel like you can help me solve these issues without having to 
+Some Features are not working properly  like the Ranking System of Regions etc. Please contribute, if you feel like you can help me solve these issues without us having to 
 re-write the whole SVM Logic myself. Also, some modules like statstical test like Friedman's are still to be scripted.
 
 CK-CSP, CK-SCSP Quad Norm Integrated File is the Complete Script including RFE.
