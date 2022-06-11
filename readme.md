@@ -1,7 +1,7 @@
 This is an attempt to reproduce the Following Paper - https://www.sciencedirect.com/science/article/abs/pii/S1746809416301409 in Python language
 
 Some Features are not working properly  like the Ranking System of Regions etc. Please contribute, if you feel like you can help me solve these issues without us having to 
-re-write the whole SVM Logic myself. Also, some modules like statstical test like Friedman's are still to be scripted.
+re-write the whole SVM Logic myself. Also, some modules like statstical test like Friedman's are yet to be scripted.
 
 CK-CSP, CK-SCSP Quad Norm Integrated File is the Complete Script including RFE.
 CK-SCSP with Quad Norm and CK-CSP with Quad Norm contains the individual File ( These include more Plotting and visualization to help those exploring this domain. )
